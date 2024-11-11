@@ -1,0 +1,1 @@
+Converts "Creative Voice File" files extracted from a SAGA audio resource file to WAVE files. Has been confirmed to work with MS-DOS version of Inherit the Earth: Quest for The Orb. The program cannot determine the sampling rate for each "Creative Voice File". A rate of 16khz is assumed.
